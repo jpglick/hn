@@ -7,3 +7,11 @@ li {
   list-style-type: none;
 }
 
+header.hn-header {
+  margin-left: 20px;
+}
+
+span.hn-title {
+  padding-left: 10px;
+}
+

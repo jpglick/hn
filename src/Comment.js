@@ -22,7 +22,7 @@ class Comment extends Component {
       .then(res => res.json())
       .then(
         (resJson) => {
-          if (typeof resJson.text !== 'undefined') {
+          if (resJson.text) {
             let text = resJson.text;
             this.setState({
               by: resJson.by,
