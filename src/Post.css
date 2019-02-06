@@ -5,3 +5,7 @@ span.posted-by {
 .hidden {
   display: none;
 }
+
+li > i {
+  padding-right: 15px;
+}
