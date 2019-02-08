@@ -1,0 +1,12 @@
+div.comment-container {
+  border: #49515f solid 1px;
+  padding: 10px;
+  font-size: 12px;
+  margin: 5px;
+}
+
+div.displayed {
+  margin-left: 2%;
+  max-width: 85%;
+}
+

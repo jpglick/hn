@@ -1,0 +1,11 @@
+span.posted-by {
+  font-size: 12px;
+}
+
+.hidden {
+  display: none;
+}
+
+li > i {
+  padding-right: 15px;
+}
